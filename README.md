@@ -1,4 +1,4 @@
-# COVID-19 | Let's fight together with Corona!
+# COVID-19 | [Let's fight together with Corona](https://corona-cases-india.netlify.com/)!
 
 ```javascript
 
@@ -20,9 +20,11 @@ war we must win. The next few weeks are critical in this battle. I
 request everyone to stay at home and enjoy good time with
 family.
 
-> This is a small effort from my side to keep yourself updated with number of corona cases reported in India so far. Checkout the API [here](https://sharadcodes.github.io/covid19-indian-stats/indian_states.json).
+> [This](https://corona-cases-india.netlify.com/) is a small effort from my side to keep yourself updated with number of corona cases reported in India so far. Checkout the API [here](https://sharadcodes.github.io/covid19-indian-stats/indian_states.json).
 
 [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Corona-India?logo=github)](https://github.com/vinitshahdeo/Corona-India/blob/master/LICENSE) 
+
+> #### See [live demo](https://corona-cases-india.netlify.com/)
 
 ### Stay Home, Stay Safe
 
