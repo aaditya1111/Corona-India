@@ -1,6 +1,6 @@
 # COVID-19 | Let's fight together with Corona!
 
-## Stay Home<sup>Stay Safe</sup>
+## Stay Home<sup>Stay Safe</sup> [![Netlify Status](https://api.netlify.com/api/v1/badges/0497585e-79a2-4557-aa08-cc2200c3af32/deploy-status)](https://app.netlify.com/sites/corona-cases-india/deploys)
 
 I’m sure you’ll agree that, at this point, it isn’t an exaggeration
 to say that we are at war against the coronavirus and that it is a
