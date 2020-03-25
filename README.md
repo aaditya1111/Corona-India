@@ -1,5 +1,7 @@
 # COVID-19 | Let's fight together with Corona!
 
+## Stay Home<sup>Stay Safe</sup>
+
 I’m sure you’ll agree that, at this point, it isn’t an exaggeration
 to say that we are at war against the coronavirus and that it is a
 war we must win. The next few weeks are critical in this battle. I
@@ -18,10 +20,9 @@ family.
 4. **SPACE**: Keep safe distance
 5. **HOME**: Stay if you can
 
-#### COVID-19: Stay Home<sup>Stay Safe</sup>
 
-- Avoid Handshakes 🤝 ❌
-- Do Namastey 🙏 ✔️
+#### Avoid Handshakes 🤝 ❌
+#### Do Namastey 🙏 ✔️
 
 ```javascript
 /**
