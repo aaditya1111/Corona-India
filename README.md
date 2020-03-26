@@ -24,7 +24,7 @@ family.
 
 [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Corona-India?logo=github)](https://github.com/vinitshahdeo/Corona-India/blob/master/LICENSE) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Corona-India?logo=react)
 
-> #### See [live demo](https://corona-cases-india.netlify.com/)
+> #### :point_right: See [live demo](https://corona-cases-india.netlify.com/)
 
 ### Stay Home, Stay Safe
 
