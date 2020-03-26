@@ -25,6 +25,7 @@ import {
   faInstagram,
   faLinkedin,
 } from "@fortawesome/free-brands-svg-icons";
+import BarChart from "./components/BarChart";
 
 export default class App extends React.Component {
   constructor(props) {
@@ -76,16 +77,16 @@ export default class App extends React.Component {
             </strong>{" "}
             👋{" "}
           </h1>
-          <h4>
+          <h5>
             I’m sure you’ll agree that, at this point, it isn’t an exaggeration
             to say that we are at war against the coronavirus and that it is a
             war we must win. The next few weeks are critical in this battle. I
             request everyone to <b>stay at home</b> and enjoy good time with
             family.
-          </h4>
-          <h3>
+          </h5>
+          <h4>
             <strong>Let's fight with Corona together!</strong>
-          </h3>
+          </h4>
           <Badge pill variant="success">
             #CoronaKoHaranaHai
           </Badge>
@@ -116,6 +117,7 @@ export default class App extends React.Component {
             </Col>
           </Row>
         </Container>
+        <BarChart />
         <TableData />
         <Alert variant="success" class="myMessage">
           <Alert.Heading>
