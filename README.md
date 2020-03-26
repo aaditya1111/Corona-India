@@ -14,6 +14,8 @@
 
 ### Stay Home<sup>Stay Safe</sup> [![Netlify Status](https://api.netlify.com/api/v1/badges/0497585e-79a2-4557-aa08-cc2200c3af32/deploy-status)](https://app.netlify.com/sites/corona-cases-india/deploys)
 
+#### :mag_right: [Click here](https://corona-cases-india.netlify.com/) to visualize the state wise Corona Cases in India!
+
 I’m sure you’ll agree that, at this point, it isn’t an exaggeration
 to say that we are at war against the coronavirus and that it is a
 war we must win. The next few weeks are critical in this battle. I
