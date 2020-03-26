@@ -11,7 +11,14 @@ body {
 
 .title {
   margin-top: 20px;
-  padding-top: 20px;
+}
+
+.caseTable {
+  padding: 10px;
+}
+
+.alert {
+  margin: 30px;
 }
 
 .footer {
@@ -30,6 +37,14 @@ body {
 
 .myCol {
   margin: 20px;
+}
+
+.copyright {
+  margin:auto;
+  padding: auto;
+}
+.extra-footer{
+  margin-bottom: 20px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
