@@ -26,6 +26,8 @@ import {
   faLinkedin,
 } from "@fortawesome/free-brands-svg-icons";
 import BarChart from "./components/BarChart";
+import StackChart from "./components/StackChart";
+import DonutChart from "./components/DonutChart";
 
 export default class App extends React.Component {
   constructor(props) {
@@ -118,6 +120,19 @@ export default class App extends React.Component {
           </Row>
         </Container>
         <BarChart />
+        <Container>
+          <Row>
+            <Col sm={6} >
+              <h5 className="section-title"><strong>Number of Deaths</strong></h5>
+              <StackChart />
+            </Col>
+            <Col sm={6}>
+              <h5 className="section-title"><strong>Number of cured cases</strong></h5>
+              <DonutChart />
+            </Col>
+          </Row>
+          <br></br>
+        </Container>
         <TableData />
         <Alert variant="success" class="myMessage">
           <Alert.Heading>
