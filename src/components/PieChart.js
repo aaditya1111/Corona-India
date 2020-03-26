@@ -10,7 +10,7 @@ export default class PieChart extends React.Component {
     return (
       <ReactMinimalPieChart
         animate
-        animationDuration={500}
+        animationDuration={1200}
         animationEasing="ease-out"
         cx={50}
         cy={50}
