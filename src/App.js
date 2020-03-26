@@ -122,11 +122,11 @@ export default class App extends React.Component {
         <BarChart />
         <Container>
           <Row>
-            <Col sm={6} >
+            <Col lg={6}>
               <h5 className="section-title"><strong>Number of Deaths</strong></h5>
               <StackChart />
             </Col>
-            <Col sm={6}>
+            <Col lg={6}>
               <h5 className="section-title"><strong>Number of cured cases</strong></h5>
               <DonutChart />
             </Col>
