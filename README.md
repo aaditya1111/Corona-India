@@ -60,4 +60,4 @@ while(_.isAlive(new Virus('COVID-19'))) {
 }
 
 ```
-<b> Thanks for viewing this Repositry <span style="bg-color="Red"">India Fights Corona</span>
+<b> Thanks for viewing this Repositry <span style="bg-color='Red'">India Fights Corona </span>
