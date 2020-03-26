@@ -22,7 +22,7 @@ family.
 
 > [This](https://corona-cases-india.netlify.com/) is a small effort from my side to keep yourself updated with number of corona cases reported in India so far. Checkout the API [here](https://sharadcodes.github.io/covid19-indian-stats/indian_states.json).
 
-[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Corona-India?logo=github)](https://github.com/vinitshahdeo/Corona-India/blob/master/LICENSE) 
+[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Corona-India?logo=github)](https://github.com/vinitshahdeo/Corona-India/blob/master/LICENSE) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Corona-India?logo=react)
 
 > #### See [live demo](https://corona-cases-india.netlify.com/)
 
