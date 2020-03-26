@@ -56,7 +56,7 @@ export default class DonutChart extends React.Component {
                 breakpoint: 480,
                 options: {
                   chart: {
-                    width: 200,
+                    width: 400,
                   },
                   legend: {
                     position: "bottom",
