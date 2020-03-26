@@ -123,11 +123,11 @@ export default class App extends React.Component {
         <Container>
           <Row>
             <Col lg={6}>
-              <h5 className="section-title"><strong>Number of Deaths</strong></h5>
+              <h5 className="section-title"><strong>Number Of Deaths</strong></h5>
               <StackChart />
             </Col>
             <Col lg={6}>
-              <h5 className="section-title"><strong>Number of cured cases</strong></h5>
+              <h5 className="section-title"><strong>Number Of Cured Cases</strong></h5>
               <DonutChart />
             </Col>
           </Row>
@@ -156,7 +156,7 @@ export default class App extends React.Component {
           </p>
         </Alert>
         <Nav className="justify-content-center footer" activeKey="/home">
-          <ButtonGroup aria-label="First group">
+          <ButtonGroup aria-label="Social Media Icons">
             <Button
               variant="secondary"
               href="https://www.facebook.com/vinit.shahdeo"
