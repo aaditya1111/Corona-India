@@ -136,7 +136,7 @@ export default class App extends React.Component {
         <TableData />
         <Alert variant="success" class="myMessage">
           <Alert.Heading>
-            <strong>Stay Home, Stay Safe</strong>
+            <strong>Stay Home, Stay Safe!</strong>
           </Alert.Heading>
           <p>
             <strong>COVID-19</strong> or as the plebs call it, the <strong>coronavirus </strong> 
