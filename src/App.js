@@ -70,7 +70,12 @@ export default class App extends React.Component {
           </Navbar.Collapse>
         </Navbar>
         <Jumbotron>
-          <h1 className="title"><strong>Hello!</strong> 👋 </h1>
+          <h1 className="title">
+            <strong>
+              <br></br>Hello!
+            </strong>{" "}
+            👋{" "}
+          </h1>
           <h4>
             I’m sure you’ll agree that, at this point, it isn’t an exaggeration
             to say that we are at war against the coronavirus and that it is a
@@ -112,7 +117,7 @@ export default class App extends React.Component {
           </Row>
         </Container>
         <TableData />
-        <Alert variant="success">
+        <Alert variant="success" class="myMessage">
           <Alert.Heading>
             <strong>Stay Home, Stay Safe</strong>
           </Alert.Heading>
@@ -123,7 +128,7 @@ export default class App extends React.Component {
             to ‘Learn’ something new. You know you’ve said this a lot to
             yourself - “I want to Learn [X] but I can’t seem to find the time.”
             This is time to learn something new. Turn Your Self-Isolation into
-            Self-Improvement
+            Self-Improvement!
           </p>
           <hr />
           <p className="mb-0">
@@ -167,6 +172,13 @@ export default class App extends React.Component {
             </Button>{" "}
           </ButtonGroup>
         </Nav>
+        <Nav>
+          <Badge pill variant="info" className="copyright">
+            Hacked by <strong>Vinit Shahdeo</strong>
+          </Badge>
+          <br></br>
+        </Nav>
+        <Nav class="extra-footer"></Nav>
       </div>
     );
   }
